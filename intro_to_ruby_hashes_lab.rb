@@ -1,6 +1,6 @@
 def new_hash
   
-new_hash = hash.new ([]) => ({})
+hash.new ([]) => ({})
 end
 
 def my_hash
